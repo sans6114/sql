@@ -1,0 +1,3 @@
+-- LIMIT en SQL es una cláusula que se usa para restringir el número de filas que se devuelven en el resultado de tu consulta. En otras palabras, te permite especificar la cantidad máxima de registros que quieres ver.
+
+SELECT * FROM users WHERE age > 10 LIMIT 2; <-- me devolvera los datos donde el campo age del usuario sea mayor a 10, PERO el limite de esta consulta es 2, asi que por mas que haya mas filas que cumplan, no las devolvera.
