@@ -1,0 +1,3 @@
+-- SUM() en SQL es una función de agregación que se utiliza para calcular la suma total de los valores numéricos de una columna específica en un conjunto de filas.
+
+SELECT SUM(age) FROM users <-- devuelve la suma de todos los valores numericos de la columna "age", pensemos en si hubieran 4 usuarios, sus edades son 10, 45, 20 -> esto tendria que ser igual a 75, sum en este caso devolveria exactamente esto.

@@ -1,0 +1,1 @@
+-- GROUP BY en SQL es una cláusula fundamental que se utiliza para agrupar filas que tienen los mismos valores en una o más columnas especificadas. Una vez que las filas están agrupadas, puedes aplicar funciones de agregación (como COUNT(), SUM(), AVG(), MIN(), MAX()) a cada grupo para obtener un resumen para ese grupo.
